@@ -6,3 +6,7 @@
 
 * Clone the repository for this course - https://github.com/MicrosoftLearning/AI-102-AIEngineer
 * Start VSC -> Open the palette (SHIFT+CTRL+P) and run a Git: Clone -> enter clone url -> Open the folder
+
+* Create Azure AI Service Resource (for example Language service)
+  1. Portal ->  search for language service -> create OR
+  2. Portal -> search for Azure AI services ->  Select  language service -> create
